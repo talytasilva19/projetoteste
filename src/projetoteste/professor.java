@@ -1,10 +1,10 @@
 package projetoteste;
 
 public class professor {
-	/*String nome;
+	String nome;
 	int idade;
 	int cpf;
 	int cod;
 	char x;
-*/
+
 }
